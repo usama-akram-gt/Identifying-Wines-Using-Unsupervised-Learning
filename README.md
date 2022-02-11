@@ -1,8 +1,7 @@
-<div id="top"></div>
-<!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
-[![Identifying Wines][product-screenshot]](https://github.com/usama-akram-gt/Identifying-Wines-Using-Unsupervised-Learning/blob/master/assets/identifying_wines.gif)
+[![Identifying Wines][product-screenshot](https://github.com/usama-akram-gt/Identifying-Wines-Using-Unsupervised-Learning/blob/master/assets/identifying_wines.gif)
+
 Software capable of grouping similar wines together. Software will load a data set containing information about each wine (Alcohol content, alkalinity of ash, Proanthocyanins, colour intensity, etc) 
 and identify which wines are similar. Identify a suitable algorithm and design the software for a company using different data structures to accomplish the below.
 * Implemented this algorithm using the research paper (https://ieeexplore.ieee.org/document/) with extended unsupervised learning using weights for K-Mean-Clustering
